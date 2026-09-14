@@ -1,0 +1,6 @@
+- **Nama Lengkap:** [Nama Lengkap Anda]
+Nama : Dewi Murtafi'ah
+Npm : 2413020070
+Program Studi : Teknik Informatika
+Minat Bidang IT : Game Development
+Harapan terhadap Mata kuliah : Saya harap bisa mengikuti perkuliahan dengan lancar, memahami konsep dasar hingga materi lanjutan tentang pengembangan perangkat lunak, serta mampu menggunakan ilmu tersebut dalam proyek yang nyata.
