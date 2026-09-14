@@ -4,3 +4,8 @@ Repository ini dibuat sebagai tugas pengenalan Git dan GitHub pada mata kuliah S
 
 Nama : Dewi Murtafi'ah
 Npm: 2413020070
+
+# Tools yang digunakan
+- Git
+- GitHub
+- Visual Studio Code
