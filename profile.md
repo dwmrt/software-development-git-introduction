@@ -1,0 +1,5 @@
+- Nama : Dewi Murtafi'ah
+- NPM : 2413020070
+- Hobi : Mendengarkan musik, Bermain game
+- Bahasa Pemrograman yang ingin dipelajari : C++
+- Target karier di bidang teknologi : Game Developer
